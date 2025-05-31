@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lucas-BritoDev/Lucas-BritoDev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lucas-BritoDev/Lucas-BritoDev/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
