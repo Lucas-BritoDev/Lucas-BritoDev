@@ -1,8 +1,8 @@
-<h2 align="center">Olá! Me chamo Lucas Brito, sou Analista de Dados.</h2>
+<h1 align="center">Olá! Me chamo Lucas Brito, sou Analista de Dados.</h1>
 
 ###
 
-<h5 align="center">Sou Analista de Dados em transição de carreira, com mais de 10 anos de experiência no setor corporativo e forte atuação em ambientes bancários. Minha trajetória inclui o atendimento a grandes instituições financeiras como Caixa Econômica Federal, Itaú, Banco do Brasil e Citibank, onde desenvolvi habilidades analíticas, operacionais e de comunicação com foco em resultados.<br><br>Atualmente, estou me especializando em Análise de Dados e Business Intelligence, com domínio das principais ferramentas do mercado: Power BI, Python, SQL, Excel, DAX e Streamlit. Tenho experiência prática na construção de dashboards interativos, automação de relatórios, modelagem de dados e análise exploratória (EDA).</h5>
+<h4 align="center">Sou Analista de Dados em transição de carreira, com mais de 10 anos de experiência no setor corporativo e forte atuação em ambientes bancários. Minha trajetória inclui o atendimento a grandes instituições financeiras como Caixa Econômica Federal, Itaú, Banco do Brasil e Citibank, onde desenvolvi habilidades analíticas, operacionais e de comunicação com foco em resultados.<br><br>Atualmente, estou me especializando em Análise de Dados e Business Intelligence, com domínio das principais ferramentas do mercado: Power BI, Python, SQL, Excel, DAX e Streamlit. Tenho experiência prática na construção de dashboards interativos, automação de relatórios, modelagem de dados e análise exploratória (EDA).</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Projetos no Power Bi<br><br>https://l1nq.com/Zt2oO</h5>
+<h4 align="left">Projetos no Power Bi<br><br>https://l1nq.com/Zt2oO</h4>
 
 ###
 
