@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="center">Sou Analista de Dados em transição de carreira, com mais de 10 anos de experiência no setor corporativo e forte atuação em ambientes bancários. Minha trajetória inclui o atendimento a grandes instituições financeiras como Caixa Econômica Federal, Itaú, Banco do Brasil e Citibank, onde desenvolvi habilidades analíticas, operacionais e de comunicação com foco em resultados.<br><br>Atualmente, estou me especializando em Análise de Dados e Business Intelligence, com domínio das principais ferramentas do mercado: Power BI, Python, SQL, Excel, DAX e Streamlit. Tenho experiência prática na construção de dashboards interativos, automação de relatórios, modelagem de dados e análise exploratória (EDA).</h4>
+<h4 align="center">Profissional com mais de 10 anos de experiência no setor corporativo, com forte atuação em instituições bancárias (Caixa, Itaú, BB, Citibank) e centros de atendimento e telemarketing, sempre com foco em dados, performance e eficiência operacional.
+
+Atualmente atuando como Analista de Dados com especialização em Business Intelligence, Power BI, DAX, SQL, Python (Streamlit) e Excel avançado. Domino todo o ciclo de vida dos dados: da coleta, tratamento e modelagem à visualização e apresentação de insights estratégicos.</h4>
 
 
 
