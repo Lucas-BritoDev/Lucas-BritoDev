@@ -10,7 +10,7 @@ Atualmente atuando como Analista de Dados com especialização em Business Intel
 
 ###
 
-<h4 align="left">Projetos no Power Bi<br><br>[https://l1nq.com/Zt2oO](https://portifolio-analista-lucas.vercel.app/)</h4>
+<h4 align="left">Projetos no Power Bi<br><br>https://portifolio-analista-lucas.vercel.app/</h4>
 
 ###
 
