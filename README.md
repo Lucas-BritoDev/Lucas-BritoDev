@@ -2,36 +2,38 @@
 
 ###
 
-<h4 align="center">Analista de Dados e Desenvolvedor, com experiência em ambientes corporativos, atuando em Business Intelligence, Data Analytics, Visualização de Dados e desenvolvimento de aplicações, com passagem por projetos de grande escala e soluções utilizadas por empresas no mercado.
+<h4 align="center">
 
-Experiência sólida em todo o ciclo do dado:
-• Coleta, limpeza e transformação de dados (ETL / ELT)
-• Modelagem de dados e organização de bases analíticas
-• Criação de dashboards executivos e relatórios gerenciais
-• Definição de KPIs e indicadores estratégicos
-• Automação de processos analíticos e relatórios recorrentes
+Analista de Dados e Desenvolvedor, atuando em Business Intelligence, Data Analytics, Visualização de Dados e desenvolvimento de aplicações utilizadas por empresas no mercado.
 
-Além da atuação em dados, possui forte experiência em desenvolvimento de software, com mais de 20 aplicativos criados em React Native, incluindo soluções completas com backend, autenticação, bancos de dados e integrações. Entre os projetos de destaque está o Canteiro Circular, uma aplicação voltada à sustentabilidade na construção civil, vencedora de diversos hackathons.
+Experiência no ciclo completo do dado:
+• ETL / ELT, limpeza e transformação de dados  
+• Modelagem de dados e organização de bases analíticas  
+• Dashboards executivos, relatórios e definição de KPIs  
+• Automação de processos e análises recorrentes  
 
-Também desenvolveu sistemas web em React, incluindo ERPs e CRMs utilizados por empresas como LH Serviços de Construção Ltda e Lojão dos Mármores, entre outras organizações, contribuindo para digitalização de processos, controle operacional e melhoria de indicadores de desempenho.
+Experiência em desenvolvimento:
+• Mais de 20 aplicativos mobile em React Native  
+• Sistemas web em React (ERPs e CRMs) utilizados por empresas como LH Serviços de Construção Ltda e Lojão dos Mármores  
+• Projeto Canteiro Circular, vencedor de hackathons  
 
-Atua ainda na criação de sistemas com Inteligência Artificial, automações e agentes de IA, utilizando ferramentas como Python, n8n e integrações com APIs, aplicando tecnologia para otimização de processos e geração de insights.
+Atuação com:
+• Inteligência Artificial, automações e agentes de IA  
+• Integrações com APIs e workflows com n8n  
 
-Ferramentas e tecnologias:
-Power BI (DAX), SQL (PostgreSQL, SQL Server, MySQL), Python (Pandas, Scikit-learn, Streamlit), Excel Avançado, Pentaho, SSIS, Tableau, Looker Studio, Google Sheets, React, React Native, integrações com APIs e automação de workflows.
+Tecnologias principais:
+Power BI, SQL, Python, Excel, React, React Native, Streamlit e ferramentas de BI e automação.
 
-Resultados relevantes:
-• Redução de até 60% no tempo de tomada de decisão com dashboards interativos
-• Economia de aproximadamente 28 horas/mês com automações em Python e Excel
-• Redução de 32% em erros de carga de dados com processos ETL estruturados
-• Desenvolvimento de aplicações e sistemas que otimizaram processos operacionais e comerciais em empresas reais
+Resultados:
+• Redução de até 60% no tempo de decisão com dashboards  
+• Economia de 28h/mês com automações  
+• Redução de 32% em erros de carga de dados  
 
-Atuação em ambientes ágeis (Scrum e Kanban), com foco em eficiência operacional, governança de dados, LGPD e entrega contínua de valor ao negócio.
-Entusiasta em tecnologia, inovação e desenvolvimento de soluções que conectam dados, software e inteligência artificial para gerar impacto real.
+Atuação em ambientes ágeis (Scrum e Kanban), com foco em eficiência, governança de dados e entrega de valor.
 
-📧 lucasbrito-dev@outlook.com.</h4>
+📧 lucasbrito-dev@outlook.com
 
-
+</h4>
 
 ###
 
@@ -39,17 +41,13 @@ Entusiasta em tecnologia, inovação e desenvolvimento de soluções que conecta
 
 ###
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasbrito-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-
 ###
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -75,17 +73,13 @@ Entusiasta em tecnologia, inovação e desenvolvimento de soluções que conecta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-
 ###
-
 
 <div align="center">
   <img height="200" src="https://i0.wp.com/blog.soulcode.com/wp-content/uploads/2023/12/ajy4hdi3gatemqeg3eqlp-scaled-e1675419443513.jpeg?resize=1024%2C683&ssl=1"  />
 </div>
 
-
 ###
-
 
 <br clear="both">
 
