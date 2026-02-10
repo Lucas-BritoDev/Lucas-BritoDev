@@ -2,15 +2,40 @@
 
 ###
 
-<h4 align="center">Profissional com mais de 10 anos de experiência no setor corporativo, com forte atuação em instituições bancárias (Caixa, Itaú, BB, Citibank) e centros de atendimento e telemarketing, sempre com foco em dados, performance e eficiência operacional.
+<h4 align="center">Analista de Dados e Desenvolvedor, com experiência em ambientes corporativos, atuando em Business Intelligence, Data Analytics, Visualização de Dados e desenvolvimento de aplicações, com passagem por projetos de grande escala e soluções utilizadas por empresas no mercado.
 
-Atualmente atuando como Analista de Dados com especialização em Business Intelligence, Power BI, DAX, SQL, Python (Streamlit) e Excel avançado. Domino todo o ciclo de vida dos dados: da coleta, tratamento e modelagem à visualização e apresentação de insights estratégicos.</h4>
+Experiência sólida em todo o ciclo do dado:
+• Coleta, limpeza e transformação de dados (ETL / ELT)
+• Modelagem de dados e organização de bases analíticas
+• Criação de dashboards executivos e relatórios gerenciais
+• Definição de KPIs e indicadores estratégicos
+• Automação de processos analíticos e relatórios recorrentes
+
+Além da atuação em dados, possui forte experiência em desenvolvimento de software, com mais de 20 aplicativos criados em React Native, incluindo soluções completas com backend, autenticação, bancos de dados e integrações. Entre os projetos de destaque está o Canteiro Circular, uma aplicação voltada à sustentabilidade na construção civil, vencedora de diversos hackathons.
+
+Também desenvolveu sistemas web em React, incluindo ERPs e CRMs utilizados por empresas como LH Serviços de Construção Ltda e Lojão dos Mármores, entre outras organizações, contribuindo para digitalização de processos, controle operacional e melhoria de indicadores de desempenho.
+
+Atua ainda na criação de sistemas com Inteligência Artificial, automações e agentes de IA, utilizando ferramentas como Python, n8n e integrações com APIs, aplicando tecnologia para otimização de processos e geração de insights.
+
+Ferramentas e tecnologias:
+Power BI (DAX), SQL (PostgreSQL, SQL Server, MySQL), Python (Pandas, Scikit-learn, Streamlit), Excel Avançado, Pentaho, SSIS, Tableau, Looker Studio, Google Sheets, React, React Native, integrações com APIs e automação de workflows.
+
+Resultados relevantes:
+• Redução de até 60% no tempo de tomada de decisão com dashboards interativos
+• Economia de aproximadamente 28 horas/mês com automações em Python e Excel
+• Redução de 32% em erros de carga de dados com processos ETL estruturados
+• Desenvolvimento de aplicações e sistemas que otimizaram processos operacionais e comerciais em empresas reais
+
+Atuação em ambientes ágeis (Scrum e Kanban), com foco em eficiência operacional, governança de dados, LGPD e entrega contínua de valor ao negócio.
+Entusiasta em tecnologia, inovação e desenvolvimento de soluções que conectam dados, software e inteligência artificial para gerar impacto real.
+
+📧 lucasbrito-dev@outlook.com.</h4>
 
 
 
 ###
 
-<h4 align="left">Projetos no Power Bi<br><br>https://portifolio-analista-lucas.vercel.app/</h4>
+<h4 align="left">Projetos<br><br>https://portifolio-analista-lucas.vercel.app/</h4>
 
 ###
 
